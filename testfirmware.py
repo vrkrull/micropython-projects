@@ -1,0 +1,15 @@
+print("hello! this message is from pico. NOT TO BE CONFUSED WITH PICO 2/W or W")
+print("if you see this message, you have successfully yoinked the firmware onto your pico")
+print("if you got a GeekPi kit, look at the text below.")
+print("if you hear a loud beep, then take a cable that came with the kit and connect BEEP to one of the GND pins")
+print("look at more micropython projects on https://github.com/vrkrull/micropython-projects")
+print("and last of all, have fun coding!")
+
+print("SPANISH")
+
+print("¡Hola! Este mensaje proviene de una Pico. NO CONFUNDIR CON LA PICO 2/W o W")
+print("Si ves este mensaje, has logrado cargar el firmware en tu Pico con éxito.")
+print("Si tienes un kit de GeekPi, presta atención al texto de abajo.")
+print("Si escuchas un pitido fuerte, toma uno de los cables que venían en el kit y conecta el pin BEEP a uno de los pines GND.")
+print("Encuentra más proyectos de MicroPython en https://github.com/vrkrull/micropython-projects")
+print("Y, por último, ¡diviértete programando!")
